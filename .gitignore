@@ -1,4 +1,4 @@
 .idea/
 *.pdf
-*.txt
+nlp.txt
 Example/example.py
